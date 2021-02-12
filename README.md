@@ -1,5 +1,7 @@
 # rules_foreign_cc
 
+**IMPORTANT**  This fork is intended solely to insulate users from instability of the original upstream repo.
+
 [![Build status](https://badge.buildkite.com/c28afbf846e2077715c753dda1f4b820cdcc46cc6cde16503c.svg?branch=master)](https://buildkite.com/bazel/rules-foreign-cc?branch=master)
 
 **Rules for building C/C++ projects using foreign build systems inside Bazel projects.**
